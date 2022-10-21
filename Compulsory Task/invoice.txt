@@ -1,0 +1,23 @@
+Order number 1234
+Customer: Dev
+Email: dev@gmail.com
+Phone number: 0123456789
+Location: cape town
+
+You have ordered the following from Pizza Palace in Cape Town:
+
+2 x Pepperoni pizza, R78.0
+4 x Margherita pizza, R65.0
+
+Special instructions: 
+Extra cheese on all pizzas.
+
+Total: R416.0
+
+Miranda Metcalfe is nearest to the restaurant so they will be delivering your
+order to you at:
+
+9 place road,
+cape town
+
+If you need to contact the restaurant, their number is 0123456789.
